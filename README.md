@@ -193,4 +193,6 @@ df1
 ![image](https://github.com/DHINESH-SEC/exno1/assets/118351569/08be1792-3872-4f44-922f-ff50c606b79e)
 
 ## Result
+Data cleaning is the process of preparing raw data for analysis by fixing issues such as errors, missing values, irrelevant information, duplicates, or inconsistent formatting. The goal is not just to remove data, but to improve its quality and accuracy so it can be used effectively. It focuses on making the dataset reliable and consistent without unnecessarily discarding valuable information.
+We used Parity, LRC, CRC, and Checksum in this experiment because each is a method to detect transmission errors in data. Parity and LRC are simple but limited, while CRC is more powerful and widely used in real networks, and Checksum ensures data integrity in larger blocks
 Thus we have cleaned the data and removed the outliers by detection using IQR and Z-score method.
